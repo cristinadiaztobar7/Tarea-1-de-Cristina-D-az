@@ -5,7 +5,7 @@
 - **URL:** [Enlacehttps://domingakp.github.io/Proyecto-Grafica/]
 
 ## 2. Introduciendo la Webstory a Analizar
-La Webstory seleccionada aborda la falta de acceso a productos de higiene menstrual de las mujeres encarceladas en Chile a partir de la recopilación de datos 
+La Webstory seleccionada aborda la falta de acceso a productos de higiene menstrual de las mujeres encarceladas en Chile a partir de la recopilación de datos de Gendarmería y la Red de Acción Carcelaria.
 
 
 ## 3. Aspectos narrativos interesantes
