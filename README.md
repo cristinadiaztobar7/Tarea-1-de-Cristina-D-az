@@ -9,18 +9,12 @@ La Webstory seleccionada aborda la falta de acceso a productos de higiene menstr
 
 
 ## 3. Aspectos narrativos interesantes
-- ¿Qué elementos narrativos usa?
-- ¿Cómo está organizada la secuencia de la historia?
-- ¿Cómo logra captar la atención del usuario?
+La Webstory no solo presenta datos alarmantes e interesantes, sino que también lo hace de una forma empática, humanizando a las mujeres privadas de libertad que viven en estas circunstancias. El recurso narrativo no se limita a mostrar cifras abstractas, sino que incorpora testimonios y  que generan un acercamiento a la audiencia. Además, los colores utilizados en el diseño son vivos y llamativos, lo que contribuye a captar rápidamente la atención del lector y mantener su interés.
 
 ## 4. Efectividad
-- Claridad en la comunicación.
-- Relevancia y calidad de los datos.
-- Balance texto/visualizaciones.
-- Interactividad y experiencia de usuario.
-- Aspectos que podrían mejorar.
+La Webstory es efectiva en presentar datos sin abrumar al lector y relata la problemática de una forma original e interesante. La combinación entre cifras e historias personales logra transmitir una situación que rara vez ha sido visibilizada por los medios de manera comprensible y atractiva, evitando que el lector se sienta saturado ante tanta información.
 
 ---
 
 ### Conclusión
-Reflexión general sobre por qué esta webstory es un buen (o mal) ejemplo de periodismo de datos narrado visualmente.
+La Webstory seleccionada es un ejemplo de como la frase "dato mata relato" es solo eso, una frase. Aborda una problemática practicamente desconocida de forma original e interesante para el lector, manteniendo un tono sensible y humano acerca de la realidad de las mujeres encarceladas en Chile.
